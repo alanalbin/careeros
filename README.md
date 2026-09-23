@@ -1,4 +1,4 @@
-# Vantage — Career Readiness Intelligence Platform
+# Career OS — Career Readiness Intelligence Platform
 
 > **Vantage** is an institutional-grade, AI-powered Career Readiness Intelligence Platform designed for higher education institutions, students, and enterprise recruiters. It unifies document intelligence, deterministic skill auditing, continuous verification, and privacy-first talent discovery into a single cohesive system.
 
@@ -142,5 +142,6 @@ career-readiness-platform/
 
 ## 📄 License
 Proprietary — Vantage Career Readiness Intelligence Platform.
-#   C a r e e r O S a i  
+#   C a r e e r O S a i 
+ 
  
